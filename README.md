@@ -2,7 +2,7 @@
 This script is a hack for naukri.com apis https://www.naukri.com/. It updates the userprofile ('resume headline') at a random interval of 2 to 12 minutes 
 
 # How it helps
-Updating the naukri.com's profile continously moves it to the top, which means more recruiters will be able to see your profile and contacts you. This open up the opportunity for you.
+Updating the naukri.com's profile continously moves it to the top, which means more recruiters will be able to see your profile and contacts you.
 
 # How to use
 Python 3.6 has to installed.
